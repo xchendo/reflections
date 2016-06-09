@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When you init a repo, it adds a hidden folder, .git which stores meta 
+	data which holds onto different versions of your project when you make
+	a commit. You need to do this or else your files won't have a log and 
+	the only file you will have access to is the current one.
+
