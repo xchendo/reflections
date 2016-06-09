@@ -4,3 +4,7 @@ What happens when you initialize a repository? Why do you need to do it?
 	a commit. You need to do this or else your files won't have a log and 
 	the only file you will have access to is the current one.
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
+	By using git diff to compare it to the last commit, or to see what 
+	changes are in this commit in the staging area.
