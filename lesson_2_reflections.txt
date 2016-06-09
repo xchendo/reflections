@@ -8,3 +8,6 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 	By using git diff to compare it to the last commit, or to see what 
 	changes are in this commit in the staging area.
+
+What are some situations where branches would be helpful in keeping your historyorganized? How would branches help?
+	In case where you want to add a new feature or try something new.
