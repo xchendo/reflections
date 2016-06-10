@@ -15,3 +15,10 @@ What are some situations where branches would be helpful in keeping your history
 How do the diagrams help you visualize the branch structure?
 	It is easier to see and understand what is actually going on and how 
 	different parts are related.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+	A pro is that you can see if any conflict arrises, such as the same
+	function having a different number, but a con is that sometimes these
+	conflicts are simple and you need to go in yourself and make the change
+	so the branches can merge.
