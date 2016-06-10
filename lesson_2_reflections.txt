@@ -11,3 +11,7 @@ change?
 
 What are some situations where branches would be helpful in keeping your historyorganized? How would branches help?
 	In case where you want to add a new feature or try something new.
+
+How do the diagrams help you visualize the branch structure?
+	It is easier to see and understand what is actually going on and how 
+	different parts are related.
