@@ -1,0 +1,2 @@
+Why would you want to use a remote repository rather than keeping your work local?
+  So you can have multiple people working on a project and also be able to access the project from places besides your own computer.
