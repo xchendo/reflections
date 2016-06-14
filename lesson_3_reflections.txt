@@ -9,5 +9,8 @@ What is the a fork, clone, and a branch? When should you use each?
    your local computer, and a branch is a copy of your project off the master branch where changes can me made 
    without affecting the master.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	It is useful if you want to see the original state compared to the changes made.
+
 
 
