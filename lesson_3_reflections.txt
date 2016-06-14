@@ -1,2 +1,11 @@
 Why would you want to use a remote repository rather than keeping your work local?
   So you can have multiple people working on a project and also be able to access the project from places besides your own computer.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	A fork is a clone from github as your own repo on github, a clone is a copy on a repo from a remote repo to
+	your local computer, and a branch is a copy of your existing project seperate from the master branch. You 
+	would use one depending on where you are making the copy from.
+
+
+
